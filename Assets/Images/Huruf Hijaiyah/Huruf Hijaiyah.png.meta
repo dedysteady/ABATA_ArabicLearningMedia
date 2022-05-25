@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 4fc5db5f5a07f6b449921da948ac5aa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4099222368303531687
+    second: Huruf Hijaiyah_0
+  - first:
+      213: 1941772825261934983
+    second: Huruf Hijaiyah_1
+  - first:
+      213: -2129489638371976843
+    second: Huruf Hijaiyah_2
+  - first:
+      213: -4880849758761647068
+    second: Huruf Hijaiyah_3
+  - first:
+      213: -6424239998422389994
+    second: Huruf Hijaiyah_4
+  - first:
+      213: 8570719538020939292
+    second: Huruf Hijaiyah_5
+  - first:
+      213: -8683384703859154326
+    second: Huruf Hijaiyah_6
+  - first:
+      213: 8867699010476306088
+    second: Huruf Hijaiyah_7
+  - first:
+      213: 2122549048059333153
+    second: Huruf Hijaiyah_8
+  - first:
+      213: -6620521595202446665
+    second: Huruf Hijaiyah_9
+  - first:
+      213: -548652495282879857
+    second: Huruf Hijaiyah_10
+  - first:
+      213: 1105483855606331199
+    second: Huruf Hijaiyah_11
+  - first:
+      213: 4697356309321712845
+    second: Huruf Hijaiyah_12
+  - first:
+      213: -6886249695918896365
+    second: Huruf Hijaiyah_13
+  - first:
+      213: -2470594325522805850
+    second: Huruf Hijaiyah_14
+  - first:
+      213: 2171041443064563673
+    second: Huruf Hijaiyah_15
+  - first:
+      213: -3874875106518578086
+    second: Huruf Hijaiyah_16
+  - first:
+      213: 1560134341180797224
+    second: Huruf Hijaiyah_17
+  - first:
+      213: 1182304495047111188
+    second: Huruf Hijaiyah_18
+  - first:
+      213: -8134290704812153513
+    second: Huruf Hijaiyah_19
+  - first:
+      213: 8049414636787588540
+    second: Huruf Hijaiyah_20
+  - first:
+      213: 8848697359499386932
+    second: Huruf Hijaiyah_21
+  - first:
+      213: 4023658740909378391
+    second: Huruf Hijaiyah_22
+  - first:
+      213: -5803876065743694509
+    second: Huruf Hijaiyah_23
+  - first:
+      213: -5293451795525208708
+    second: Huruf Hijaiyah_24
+  - first:
+      213: -4681416900866644956
+    second: Huruf Hijaiyah_25
+  - first:
+      213: -4952918526342344298
+    second: Huruf Hijaiyah_26
+  - first:
+      213: -6445317490685442164
+    second: Huruf Hijaiyah_27
+  - first:
+      213: 3938869640838226143
+    second: Huruf Hijaiyah_28
+  - first:
+      213: 1267851268097496116
+    second: Huruf Hijaiyah_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 422
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4596254, y: 0.45962602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959bee189f2ac17c0800000000000000
+      internalID: -4099222368303531687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 426
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7898e3cb81092fa10800000000000000
+      internalID: 1941772825261934983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 423
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57996f7d4788272e0800000000000000
+      internalID: -2129489638371976843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 421
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42406f6110db34cb0800000000000000
+      internalID: -4880849758761647068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 425
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6d2e22c388d6a0800000000000000
+      internalID: -6424239998422389994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 339
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16fc3d920051f670800000000000000
+      internalID: 8570719538020939292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 346
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a622a6e4e9b6e7780800000000000000
+      internalID: -8683384703859154326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 342
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee5865445601b70800000000000000
+      internalID: 8867699010476306088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 344
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a8beb0d1fc47d10800000000000000
+      internalID: 2122549048059333153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 341
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad72aafae2f14a0800000000000000
+      internalID: -6620521595202446665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 264
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824881667bc268f0800000000000000
+      internalID: -548652495282879857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 262
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373856a5b7775f00800000000000000
+      internalID: 1105483855606331199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 265
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc48f88fcac503140800000000000000
+      internalID: 4697356309321712845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 263
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcc10f2602f60a0800000000000000
+      internalID: -6886249695918896365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 263
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab0e1bfc8fa6bdd0800000000000000
+      internalID: -2470594325522805850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 183
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c38690b6112e10800000000000000
+      internalID: 2171041443064563673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 177
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cc4fede9da93ac0800000000000000
+      internalID: -3874875106518578086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 178
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82138f7dae5b6a510800000000000000
+      internalID: 1560134341180797224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 183
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41271a39ca3686010800000000000000
+      internalID: 1182304495047111188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 183
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755e8e783b13d1f80800000000000000
+      internalID: -8134290704812153513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 103
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbddd8be6f345bf60800000000000000
+      internalID: 8049414636787588540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 93
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e5e5bd53ecca70800000000000000
+      internalID: 8848697359499386932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8c4d7e48e6d730800000000000000
+      internalID: 4023658740909378391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 103
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35594fce77d747fa0800000000000000
+      internalID: -5803876065743694509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75f01c43a1e986b0800000000000000
+      internalID: -5293451795525208708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246552c124480fb0800000000000000
+      internalID: -4681416900866644956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 23
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691d9eb87d2b34bb0800000000000000
+      internalID: -4952918526342344298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 30
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87051714e1ad86a0800000000000000
+      internalID: -6445317490685442164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 26
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0abbeb11da9a630800000000000000
+      internalID: 3938869640838226143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huruf Hijaiyah_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 20
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434dafec200589110800000000000000
+      internalID: 1267851268097496116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
