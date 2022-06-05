@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ced74b5aaa14872408b3672922d35587
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rightAnswer: {instanceID: 0}
+  - wrongAnswer: {instanceID: 0}
+  - getReward: {instanceID: 0}
+  - clickButton: {fileID: 8300000, guid: 7602f02f2e216294290d1978efe94b47, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,6 +8,7 @@ public class QuizManager : MonoBehaviour
 {
     public Text _namaSoal, ScoreTxt;
     public Image _imageSoal;
+    public AudioSource _audioSoal;
     public GameObject[] options;
     public int currentQuestion, score;
     public List<Question> KumpulanSoal;
@@ -17,6 +18,7 @@ public class QuizManager : MonoBehaviour
 
     private void Start()
     {
+        _audioSoal = gameObject.GetComponent<AudioSource> ();
         GameOverPanel.SetActive(false);
         generateQuestion();
     }
@@ -63,7 +65,7 @@ public class QuizManager : MonoBehaviour
             options[i].GetComponent<Image>().color = options[i].GetComponent<AnswerScript>().startColor;
             options[i].GetComponent<AnswerScript>().isCorrect = false;
 
-            if (scene.name == "Tebak Benda")
+            if(scene.name == "Tebak Suara")
             {
                 options[i].transform.GetChild(0).gameObject.GetComponent<Image>().sprite = KumpulanSoal[currentQuestion].Answers[i]; 
             }
@@ -86,11 +88,11 @@ public class QuizManager : MonoBehaviour
  
         if(KumpulanSoal.Count > 0 )
         {
-            if (scene.name == "Tebak Benda")
+            if(scene.name == "Tebak Suara")
             {
                 currentQuestion = Random.Range(0, KumpulanSoal.Count);
-                _namaSoal.text = KumpulanSoal[currentQuestion].namaSoal;
-                _imageSoal.sprite = KumpulanSoal[currentQuestion].imageSoal;
+                _audioSoal.clip = KumpulanSoal[currentQuestion].audioSoal;
+                _audioSoal.Play();
             }
 
             if(scene.name == "Tebak Angka" || scene.name == "Tebak Huruf")

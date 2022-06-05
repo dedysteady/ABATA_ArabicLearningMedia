@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: fdf642558298fea4aa730d072b18a4e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2571563851376409455
+    second: Kuis_0
+  - first:
+      213: 3252246186991958960
+    second: Kuis_1
+  - first:
+      213: 9213324977519616477
+    second: Kuis_2
+  - first:
+      213: -6483396647454526962
+    second: Kuis_3
+  - first:
+      213: 8481633227357712
+    second: Kuis_4
+  - first:
+      213: 3522051241813102497
+    second: Kuis_5
+  - first:
+      213: 3721983261476152245
+    second: Kuis_6
+  - first:
+      213: -1263444069272925952
+    second: Kuis_8
+  - first:
+      213: -1426866100812956132
+    second: Kuis_9
+  - first:
+      213: 3321346389624036746
+    second: Kuis_10
+  - first:
+      213: 4647904563807874290
+    second: Kuis_11
+  - first:
+      213: -257698808910463039
+    second: Kuis_12
+  - first:
+      213: 7136422649604882446
+    second: Kuis_13
+  - first:
+      213: -1734607605802674663
+    second: Kuis_14
+  - first:
+      213: 4838132722003684221
+    second: Kuis_15
+  - first:
+      213: -8786887024471064652
+    second: Kuis_16
+  - first:
+      213: 8894943229624094155
+    second: Kuis_17
+  - first:
+      213: 8651578268241090756
+    second: Kuis_18
+  - first:
+      213: -4434327432904536794
+    second: Kuis_19
+  - first:
+      213: -123300929413480766
+    second: Kuis_20
+  - first:
+      213: 1011498860990381932
+    second: Kuis_21
+  - first:
+      213: -8118918643445988092
+    second: Kuis_22
+  - first:
+      213: 8214654335623333266
+    second: Kuis_23
+  - first:
+      213: -1533129621270277044
+    second: Kuis_24
+  - first:
+      213: 3755075744485292647
+    second: Kuis_25
+  - first:
+      213: 1287379777172814909
+    second: Kuis_26
+  - first:
+      213: 4113224532178335121
+    second: Kuis_27
+  - first:
+      213: -5929864558282339061
+    second: Kuis_28
+  - first:
+      213: 5085801755331141011
+    second: Kuis_29
+  - first:
+      213: -3667985199024480235
+    second: Kuis_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kuis_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 747
+        width: 170
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19449794d48ff4cd0800000000000000
+      internalID: -2571563851376409455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 750
+        width: 170
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb36c90dac422d20800000000000000
+      internalID: 3252246186991958960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 750
+        width: 170
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16a45b04e4cdf70800000000000000
+      internalID: 9213324977519616477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 640
+        width: 175
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02b38289195606a0800000000000000
+      internalID: -6483396647454526962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 647
+        width: 170
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb1af10022e1000800000000000000
+      internalID: 8481633227357712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 659
+        width: 170
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af4efc91f6d0e030800000000000000
+      internalID: 3522051241813102497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 186
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36c307e0427a330800000000000000
+      internalID: 3721983261476152245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 555
+        width: 147
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c9612058577ee0800000000000000
+      internalID: -1263444069272925952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 481
+        width: 149
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3ff657d0c23ce0800000000000000
+      internalID: -1426866100812956132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 487
+        width: 148
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d1191b1fac71e20800000000000000
+      internalID: 3321346389624036746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 489
+        width: 151
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc6fab339ca08040800000000000000
+      internalID: 4647904563807874290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 419
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb9d37c487c6cf0800000000000000
+      internalID: -257698808910463039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 415
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0040c4e69aa90360800000000000000
+      internalID: 7136422649604882446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 408
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d077a29f6de7e0800000000000000
+      internalID: -1734607605802674663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 335
+        width: 137
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b293fb310842340800000000000000
+      internalID: 4838132722003684221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 339
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfb9e06ec4be0680800000000000000
+      internalID: -8786887024471064652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 327
+        width: 132
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd820b6dbf217b70800000000000000
+      internalID: 8894943229624094155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 242
+        width: 110
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8dff0d894901870800000000000000
+      internalID: 8651578268241090756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 242
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d84ff91ba1672c0800000000000000
+      internalID: -4434327432904536794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 248
+        width: 124
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce75dd3572f94ef0800000000000000
+      internalID: -123300929413480766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 142
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f3b0cdad0990e00800000000000000
+      internalID: 1011498860990381932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 169
+        width: 138
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4050b19728ec35f80800000000000000
+      internalID: -8118918643445988092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 167
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295837b5890500270800000000000000
+      internalID: 8214654335623333266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 90
+        width: 121
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445e897bba39bae0800000000000000
+      internalID: -1533129621270277044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 91
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3bbe8e75bc1430800000000000000
+      internalID: 3755075744485292647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 91
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c38652611bdd110800000000000000
+      internalID: 1287379777172814909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19579e15beb151930800000000000000
+      internalID: 4113224532178335121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 130
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d076d1a93e4bda0800000000000000
+      internalID: -5929864558282339061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 12
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d129030c5649640800000000000000
+      internalID: 5085801755331141011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuis_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 553
+        width: 164
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51061c235e2b81dc0800000000000000
+      internalID: -3667985199024480235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
