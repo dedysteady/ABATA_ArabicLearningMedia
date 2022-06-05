@@ -88,14 +88,14 @@ public class QuizManager : MonoBehaviour
  
         if(KumpulanSoal.Count > 0 )
         {
-            if(scene.name == "Tebak Suara")
+            if(scene.name == "Tebak Suara" || scene.name == "Tebak Huruf")
             {
                 currentQuestion = Random.Range(0, KumpulanSoal.Count);
                 _audioSoal.clip = KumpulanSoal[currentQuestion].audioSoal;
                 _audioSoal.Play();
             }
 
-            if(scene.name == "Tebak Angka" || scene.name == "Tebak Huruf")
+            if(scene.name == "Tebak Angka")
             {
                 currentQuestion = Random.Range(0, KumpulanSoal.Count);
                 _namaSoal.text = KumpulanSoal[currentQuestion].namaSoal;
