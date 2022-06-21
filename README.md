@@ -2,7 +2,7 @@
 This application was made to learn Arabic for early childhood to make it more fun and interesting
 
 This repository is not full version of this app. 
-If you want to use my full version of this app, please contact me on Linkedin -> htpps://linkedin.com/in/dedysteady
+If you want to use my full version of this app, please contact me on Linkedin -> https://linkedin.com/in/dedysteady
 
 ## Screenshot App
 
