@@ -11,6 +11,8 @@ This application was made to learn Arabic for early childhood to make it more fu
 This repository is not full version of this app. 
 If you want to use my full version of this app, please contact me on Linkedin -> https://linkedin.com/in/dedysteady
 
+Check it out on Play Store -> https://play.google.com/store/apps/details?id=com.Dedysteady.ABATA
+
 ## Screenshot App
 
 
